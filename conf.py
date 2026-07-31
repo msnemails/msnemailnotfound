@@ -1,4 +1,4 @@
-project = 'MSN Email Customer Service'
+project = 'MSN Email Not Found Error'
 author = 'Your Name'
 release = '1.0'
 
